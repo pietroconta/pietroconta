@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
      height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
      alt="C#"
      width="40"
-     height="40" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"
+     height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"
      alt="ASP.NET Core Web API"
      width="40"
      height="40" />
+
+
