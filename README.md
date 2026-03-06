@@ -39,8 +39,3 @@
 </p>
 
 ---
-
-### 📚 Currently Learning
-
--  **SolidJS**
-
