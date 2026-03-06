@@ -46,7 +46,3 @@
 - 🏗️ Modern Frontend Development
 - ⚙️ Advanced Web Development
 
-
-### ⚡ Fun Fact
-
-> I enjoy learning new technologies and building useful software.
