@@ -42,5 +42,5 @@
 
 ### 📚 Currently Learning
 
-- ⚡ **SolidJS**
+-  **SolidJS**
 
