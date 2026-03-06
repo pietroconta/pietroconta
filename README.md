@@ -6,9 +6,9 @@
 ### 👨‍💻 About Me
 
 - 💻 Passionate about **software development**
-- 🌱 Currently learning **SOLID principles and software architecture**
-- 🚀 Interested in **backend development and web technologies**
-- 🧠 Always trying to improve my coding skills
+- 🚀 Interested in **web development and backend technologies**
+- 🌱 Currently learning **SolidJS**
+- 🧠 Always improving my coding skills
 
 ---
 
@@ -34,15 +34,17 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET Core Web API" width="40" height="40"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="40" height="40"/>
+
 </p>
 
 ---
 
 ### 📚 Currently Learning
 
-- 🧱 **SOLID Principles**
-- 🏗️ **Clean Architecture**
-- ⚙️ **Advanced Backend Development**
+- ⚡ **SolidJS**
+- 🏗️ Modern Frontend Development
+- ⚙️ Advanced Web Development
 
 ---
 
@@ -60,4 +62,4 @@
 
 ### ⚡ Fun Fact
 
-> Clean code always looks like it was written by someone who cares.
+> I enjoy learning new technologies and building useful software.
