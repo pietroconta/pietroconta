@@ -43,6 +43,4 @@
 ### 📚 Currently Learning
 
 - ⚡ **SolidJS**
-- 🏗️ Modern Frontend Development
-- ⚙️ Advanced Web Development
 
