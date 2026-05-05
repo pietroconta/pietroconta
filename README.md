@@ -40,8 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pietroconta&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroconta&layout=compact&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pietroconta&theme=tokyonight">
 </p>
 
 ---
