@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pietroconta&theme=transparent">
 </p>
 
